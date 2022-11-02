@@ -1,0 +1,64 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    color: rgb(0, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-color: rgb(211, 214, 205) !important;
+}
+
+#carrusel{
+    margin-top: 2%;
+}
+
+#titulo{
+    font-size: 300%;
+    text-align: center;
+    margin-top: 5vw;
+    margin-bottom: 5vw;
+    }
+
+.imgSecundarias{
+    border-radius: 10px;
+    border: solid 4px;
+    border-color: rgb(0, 0, 0);
+    margin-top: 5vw;
+    margin-bottom: 5vw; 
+    }
+
+#video{
+    margin-bottom: 5vw;
+    height: 35vw;
+    width: auto;
+}
+
+.bioTex, {
+    text-align: center;
+    font-size: 250%;
+}
+
+#bioInfo{
+    width: 80vw;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#informacionPersonal {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#infomacionProfesional{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+}
+footer{ 
+    text-align: center;
+    margin: 25px;
+}
